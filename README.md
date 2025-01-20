@@ -2,7 +2,7 @@
 
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/84172751271877)
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teampay.co%2Fblog%2Fnetflix-recession&psig=AOvVaw1XJTUPnMS5OYL7IF_44YVx&ust=1737447061604000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCbmL7tg4sDFQAAAAAdAAAAABAP)
+![MasterHead](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/netflix.jpg)
 
 <font size="1">Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg</font>
 
