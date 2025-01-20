@@ -2,7 +2,7 @@
 
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/84172751271877)
 
-![MasterHead](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/netflix.jpg)
+![MasterHead](https://www.blibli.com/friends-backend/wp-content/uploads/2023/12/B1200060-Cover-cara-langganan-netflix-scaled.jpg)
 
 <font size="1">Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg</font>
 
