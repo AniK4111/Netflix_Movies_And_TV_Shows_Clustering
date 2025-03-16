@@ -8,7 +8,7 @@
 
 Click on the following link to checkout the video presentation and the colab file.
 - [Colab](https://colab.research.google.com/drive/1KnldWovNxHLO3RXKUVA_UONMJe6nVejD?usp=sharing)
-- [Video]
+  
 
 
 ## Problem Statement
