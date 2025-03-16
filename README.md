@@ -7,7 +7,7 @@
 <font size="1">Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg</font>
 
 Click on the following link to checkout the video presentation and the colab file.
-- [Colab](https://colab.research.google.com/drive/1T5YKNhrtKYlWGJHgK2DXTRzqhuLOAClm?usp=sharing)
+- [Colab](https://colab.research.google.com/drive/1KnldWovNxHLO3RXKUVA_UONMJe6nVejD?usp=sharing)
 - [Video](https://drive.google.com/file/d/1liBHfhyjyUom-674qqgGQ-zoLx3nbypN/view?usp=sharing)
 
 
